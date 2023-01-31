@@ -1,0 +1,15 @@
+C:\Users\Meet  Kerasiya\source\repos\Global unhandle exception\Global unhandle exception\bin\Debug\net6.0\Global unhandle exception.exe
+C:\Users\Meet  Kerasiya\source\repos\Global unhandle exception\Global unhandle exception\bin\Debug\net6.0\Global unhandle exception.deps.json
+C:\Users\Meet  Kerasiya\source\repos\Global unhandle exception\Global unhandle exception\bin\Debug\net6.0\Global unhandle exception.runtimeconfig.json
+C:\Users\Meet  Kerasiya\source\repos\Global unhandle exception\Global unhandle exception\bin\Debug\net6.0\Global unhandle exception.dll
+C:\Users\Meet  Kerasiya\source\repos\Global unhandle exception\Global unhandle exception\bin\Debug\net6.0\Global unhandle exception.pdb
+C:\Users\Meet  Kerasiya\source\repos\Global unhandle exception\Global unhandle exception\obj\Debug\net6.0\Global unhandle exception.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\Global unhandle exception\Global unhandle exception\obj\Debug\net6.0\Global unhandle exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet  Kerasiya\source\repos\Global unhandle exception\Global unhandle exception\obj\Debug\net6.0\Global unhandle exception.AssemblyInfoInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Global unhandle exception\Global unhandle exception\obj\Debug\net6.0\Global unhandle exception.AssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\Global unhandle exception\Global unhandle exception\obj\Debug\net6.0\Global unhandle exception.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Global unhandle exception\Global unhandle exception\obj\Debug\net6.0\Global unhandle exception.dll
+C:\Users\Meet  Kerasiya\source\repos\Global unhandle exception\Global unhandle exception\obj\Debug\net6.0\refint\Global unhandle exception.dll
+C:\Users\Meet  Kerasiya\source\repos\Global unhandle exception\Global unhandle exception\obj\Debug\net6.0\Global unhandle exception.pdb
+C:\Users\Meet  Kerasiya\source\repos\Global unhandle exception\Global unhandle exception\obj\Debug\net6.0\Global unhandle exception.genruntimeconfig.cache
+C:\Users\Meet  Kerasiya\source\repos\Global unhandle exception\Global unhandle exception\obj\Debug\net6.0\ref\Global unhandle exception.dll
